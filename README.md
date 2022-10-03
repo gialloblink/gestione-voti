@@ -1,5 +1,5 @@
 # gestione-voti
-servizio Web per la gestione della raccolta di preferenze da parte di un utente su film
+Servizio Web per la gestione della raccolta di preferenze da parte di un utente su film
 
 
 1 - un form in cui l’utente può inserire il titolo del film (una stringa) e la sua valutazione numerica (si può assumere un valore nell’intervallo 1-5. Il form permette l’inserimento di una valutazione per volta e l’inserimento di più valutazioni avviene inviando più volte il form.
