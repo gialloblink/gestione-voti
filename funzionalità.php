@@ -60,36 +60,6 @@ class filmManager{
     
     return $votiJson;
     }
-
-    // public static function totalePezzi()
-    // {
-    //   $totale=0;
-    //   $prodotti=carrello::caricaCarrelloFromJson();
-    //   foreach ($prodotti as $key => $value) {
-    //     $totale=$totale+$prodotti[$key]["pezzi"];
-    //   }
-    //   return $totale;
-    // }
-    // public static function prodottoPiùPezzi()
-    // {
-    
-    //   $prodotti=carrello::caricaCarrelloFromJson();
-    //   $pezzi=0;
-    //   foreach ($prodotti as $key => $value) {
-
-    //     $newPezzi=$prodotti[$key]["pezzi"];
-
-    //     if ($newPezzi>$pezzi) {
-    //       $prodotto=$prodotti[$key]["prodotto"];
-    //       $pezzi=$prodotti[$key]["pezzi"];
-    //       $frase=" con pezzi: ";
-    //     }; 
-    //   }
-    //   return $prodotto.$frase.$pezzi;
-    
-    // }
-
 }
-
 
 ?>
