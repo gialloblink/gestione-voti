@@ -1,14 +1,14 @@
 [
     {
-        "film": "aa",
+        "film": "pulp fiction",
         "voto": 7,
         "voti": 3,
         "media": 3
     },
     {
-        "film": "pippo",
-        "voto": 16,
+        "film": "The Hateful Eight",
+        "voto": 15,
         "voti": 3,
-        "media": 6
+        "media": 5
     }
 ]
