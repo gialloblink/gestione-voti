@@ -1,0 +1,14 @@
+[
+    {
+        "film": "aa",
+        "voto": 7,
+        "voti": 3,
+        "media": 3
+    },
+    {
+        "film": "pippo",
+        "voto": 16,
+        "voti": 3,
+        "media": 6
+    }
+]
