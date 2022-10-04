@@ -54,7 +54,7 @@ class filmManager{
     $content = file_get_contents('voti.json');
     $votiJson = json_decode($content, true);
         if ($votiJson === null) {
-        echo 'Impossibile leggere il file carrello: ' . json_last_error_msg();
+        echo 'Impossibile leggere il file voti: ' . json_last_error_msg();
         die;
         }
     
